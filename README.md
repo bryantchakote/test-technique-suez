@@ -6,3 +6,7 @@ Candidate: Manuel Bryan Tchakote
 ## Classification garbage
 
 The proposed solution is in `classification_garbage/answer.ipynb`. The notebook was executed on Google Colab.
+
+## Feature Computation
+
+The notebook is saved in `feature_computation/answer.ipynb`. You may need to create and environment and install the required packages (`pyproject.toml` and `poetry.lock` are provided to easily run installations using Poetry).
