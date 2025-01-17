@@ -1,7 +1,7 @@
 # Technical test Suez
 
-Role: Data Scientist
-Candidate: Manuel Bryan Tchakote
+- Role: Data Scientist
+- Candidate: Manuel Bryan Tchakote
 
 ## Classification garbage
 
