@@ -2,6 +2,8 @@
 
 - Role: Data Scientist
 - Candidate: Manuel Bryan Tchakote
+- Verdict: Not accepted
+- Note to myself: Keep moving forward bud! 💪🏾
 
 ## Classification garbage
 
